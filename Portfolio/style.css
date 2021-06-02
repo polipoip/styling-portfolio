@@ -1,0 +1,37 @@
+h1{
+    color:blue;
+    }
+    p{
+        color: chartreuse;
+    }
+    h2{
+        color:cyan;
+    }
+    *{
+        border:solid;
+    }
+    .header{
+        background-color: aquamarine;
+        display:flex;
+        justify-content:space-between;
+    }
+    .Item{
+        display:flex;
+        flex-wrap:wrap;
+        justify-content:space-evenly;
+        background-color: blueviolet;
+    }
+    .games{
+        display:flex;
+        flex-wrap:wrap;
+        justify-content:space-around;
+        background-color: coral;
+    }
+    .paragraphs{
+        display:flex;
+        text-align:center;
+    }
+    .footer{
+        display:flex;
+        justify-content:flex-end;
+    }
